@@ -1,0 +1,6 @@
+id,title,lead_author,type,venue,deadline,stage,stage_since,reviewer,customer_data,customer_consent,notes
+P-001,Red-edge indices from 5 m hyperspectral data for paddy nitrogen,Analytics team,paper,Journal A (example),2026-12-15,technical,2026-10-20,R. Reviewer,no,,
+P-002,Cross-calibration of two VNIR hyperspectral sensors over a desert site,Calibration team,conference paper,Conference A (example),2026-11-10,confidentiality,2026-10-12,,no,,
+P-003,Mangrove species mapping case study,Applications team,poster,Conference B (example),2026-11-06,approval,2026-10-27,S. Reviewer,yes,no,customer AOI
+P-004,Onboard compression of hyperspectral cubes,Payload team,talk,Internal seminar,2027-01-20,draft,2026-10-26,,no,,
+P-005,Water-quality retrieval over inland lakes,Analytics team,paper,Journal (TBD),2027-03-01,techncal,2026-10-01,,no,,typo in stage
